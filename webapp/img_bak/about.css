@@ -1,0 +1,229 @@
+@charset "utf-8";
+.banaer {
+	MARGIN: 0px auto; BACKGROUND-REPEAT: repeat-x; BACKGROUND-POSITION: left bottom; HEIGHT: 364px; _background-image: url(../image/singleones/player_nav_bg.png)
+}
+.banaer .banaer_bg {
+	BACKGROUND-IMAGE: url(../img/ddd.jpg); MARGIN: 0px auto; DISPLAY: block; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left top; HEIGHT: 328px
+}
+.banaer_fla {
+	MARGIN: 0px auto; WIDTH: 980px; DISPLAY: block; HEIGHT: 330px
+}
+#nm-content {
+	BORDER-BOTTOM: #000 0px solid; BORDER-LEFT: #000 0px solid; MARGIN: 0px auto; WIDTH: 980px; OVERFLOW: hidden; BORDER-TOP: #000 0px solid; BORDER-RIGHT: #000 0px solid
+}
+.nm-content-main {
+	WIDTH: 2000px
+}
+.nm-three-main {
+	MARGIN: 0px 40px 0px 0px; FLOAT: left; OVERFLOW: hidden
+}
+.nm-three-main H1 {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: url(../img/title_bg01.gif) no-repeat left bottom; HEIGHT: 32px; COLOR: #898989; FONT-SIZE: 18px; PADDING-TOP: 10px; _padding: 10px 0 10px 0
+}
+UL.nm-three-colums LI H1 {
+	BACKGROUND-IMAGE: url(../img/bline.jpg); POSITION: relative; PADDING-BOTTOM: 10px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left bottom; MARGIN-BOTTOM: 9px; COLOR: #898989; FONT-SIZE: 18px
+}
+H2 {
+	MARGIN-BOTTOM: 8px; COLOR: #414141; FONT-SIZE: 2.2em; FONT-WEIGHT: normal
+}
+UL.nm-three-colums LI H2 {
+	BORDER-BOTTOM: #e0e0e0 1px solid; PADDING-BOTTOM: 10px; LINE-HEIGHT: 42px; PADDING-LEFT: 60px; MARGIN-BOTTOM: 20px; COLOR: #898989; FONT-SIZE: 2.2em
+}
+UL.nm-three-colums LI H2.nm-h2-aboutus {
+	BACKGROUND-POSITION: 0px -938px
+}
+UL.nm-three-colums LI H2.nm-h2-blog {
+	BACKGROUND-POSITION: 0px -990px
+}
+UL.nm-three-colums LI H2.nm-h2-twitter {
+	BACKGROUND-POSITION: 0px -1042px
+}
+DIV.nm-ref-summery H2 {
+	LINE-HEIGHT: 35px; PADDING-RIGHT: 20px; DISPLAY: inline-block; FLOAT: left; COLOR: #626161; FONT-SIZE: 2.4em; FONT-WEIGHT: normal; BORDER-RIGHT: #c3c3c3 1px dotted
+}
+H3 {
+	MARGIN-BOTTOM: 14px; COLOR: #919191; FONT-SIZE: 1.5em; FONT-WEIGHT: normal
+}
+H4 {
+	MARGIN-BOTTOM: 10px; COLOR: #414141; FONT-SIZE: 1.8em; FONT-WEIGHT: normal
+}
+UL.nm-teaser-links LI A SPAN {
+	MARGIN-TOP: 4px; DISPLAY: block; FONT-FAMILY: "微软雅黑"; COLOR: #919191; FONT-SIZE: 12px; _font-family: "宋体"
+}
+UL.nm-teaser-links LI A:hover SPAN {
+	COLOR: #f98614
+}
+UL.nm-three-colums LI H1 SPAN {
+	POSITION: absolute; WIDTH: 7px; BOTTOM: -5px; DISPLAY: block; BACKGROUND-POSITION: -389px 0px; HEIGHT: 5px; LEFT: 20px
+}
+P {
+	LINE-HEIGHT: 1.6em; MARGIN-BOTTOM: 1.4em; FONT-SIZE: 1.3em
+}
+BR.nm-clear {
+	CLEAR: both
+}
+STRONG {
+	FONT-WEIGHT: bold
+}
+UL.nm-teaser-links {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+UL.nm-three-colums > LI {
+	POSITION: relative; WIDTH: 215px; FLOAT: left; MARGIN-LEFT: 40px; PADDING-TOP: 20px
+}
+UL.nm-three-colums > LI:first-child {
+	MARGIN-LEFT: 0px
+}
+H1 A {
+	COLOR: #898989; FONT-WEIGHT: normal
+}
+H1 A:hover {
+	COLOR: #15a9fa; TEXT-DECORATION: none
+}
+UL.nm-teaser-links LI A {
+	POSITION: relative; PADDING-BOTTOM: 14px; PADDING-LEFT: 60px; DISPLAY: block; FONT-FAMILY: "微软雅黑"; COLOR: #414141; FONT-SIZE: 1.2em; BORDER-TOP: #d1d1d1 1px dotted; PADDING-TOP: 6px; _font-family: "宋体"
+}
+UL.nm-teaser-links LI A:active {
+	PADDING-BOTTOM: 6px; PADDING-TOP: 8px
+}
+UL.nm-teaser-links LI:first-child A {
+	BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px
+}
+UL.nm-small-news-list LI:first-child A {
+	BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px
+}
+UL.nm-small-news-list LI A SPAN {
+	FONT-STYLE: italic; PADDING-RIGHT: 10px; FONT-FAMILY: "微软雅黑"; COLOR: #bbb; FONT-SIZE: 20px; FONT-WEIGHT: bold; BORDER-RIGHT: #cccccc thin dashed; _font-family: "宋体"
+}
+UL.nm-small-news-list LI A {
+	BACKGROUND-IMAGE: url(../images/hot_news.png); BORDER-BOTTOM: #d1d1d1 1px dotted; PADDING-BOTTOM: 0px; LINE-HEIGHT: 34px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; FONT-FAMILY: "微软雅黑"; BACKGROUND-POSITION: 0px -64px; HEIGHT: 34px; COLOR: #0071d1; FONT-SIZE: 14px; TEXT-DECORATION: none; PADDING-TOP: 12px; _font-family: "宋体"
+}
+UL.nm-small-news-list LI A:hover {
+	COLOR: #f88613
+}
+UL.nm-teaser-links LI A:hover {
+	COLOR: #15a9fa; TEXT-DECORATION: none
+}
+UL.nm-teaser-links LI A.nm-teaser-websites {
+	BACKGROUND-IMAGE: url(../img/ico_compinfo.jpg); BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left center
+}
+UL.nm-teaser-links LI.nm-teaser-websites {
+	BACKGROUND-IMAGE: url(../img/ico_compinfo.jpg); BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left center
+}
+UL.nm-teaser-links LI A.nm-teaser-websites:hover {
+	BACKGROUND-IMAGE: url(../img/ico_compinfo2.jpg); BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left center; COLOR: #f98614
+}
+UL.nm-teaser-links LI A.nm-teaser-websites:active {
+	BACKGROUND-POSITION: 0px -315px
+}
+UL.nm-teaser-links LI A.nm-teaser-software {
+	BACKGROUND-IMAGE: url(../img/ico_zhfinfo.jpg); BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left center
+}
+UL.nm-teaser-links LI.nm-teaser-software {
+	BACKGROUND-IMAGE: url(../img/ico_zhfinfo.jpg); BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left center
+}
+UL.nm-teaser-links LI A.nm-teaser-software:hover {
+	BACKGROUND-IMAGE: url(../img/ico_zhfinfo2.jpg); BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left center; COLOR: #f98614
+}
+UL.nm-teaser-links LI A.nm-teaser-software:active {
+	BACKGROUND-POSITION: 0px -383px
+}
+UL.nm-teaser-links LI A.nm-teaser-strategy {
+	BACKGROUND-IMAGE: url(../img/ico_dianziinfo.jpg); BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left center
+}
+UL.nm-teaser-links LI.nm-teaser-strategy {
+	BACKGROUND-IMAGE: url(../img/ico_dianziinfo.jpg); BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left center
+}
+UL.nm-teaser-links LI A.nm-teaser-strategy:hover {
+	BACKGROUND-IMAGE: url(../img/ico_dianziinfo2.jpg); BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left center; COLOR: #f98614
+}
+UL.nm-teaser-links LI A.nm-teaser-strategy:active {
+	BACKGROUND-POSITION: 0px -451px
+}
+UL.nm-teaser-links LI A.nm-teaser-network {
+	BACKGROUND-IMAGE: url(../img/ico_huaiguinfo.jpg); BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left center
+}
+UL.nm-teaser-links LI.nm-teaser-network {
+	BACKGROUND-IMAGE: url(../img/ico_huaiguinfo.jpg); BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left center
+}
+UL.nm-teaser-links LI A.nm-teaser-network:hover {
+	BACKGROUND-IMAGE: url(../img/ico_huaiguinfo2.jpg); BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left center; COLOR: #f98614
+}
+UL.nm-teaser-links LI A.nm-teaser-network:active {
+	BACKGROUND-POSITION: 0px -723px
+}
+UL.nm-teaser-links LI A.nm-teaser-service {
+	BACKGROUND-IMAGE: url(../img/ico_crminfo.jpg); BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left center
+}
+UL.nm-teaser-links LI.nm-teaser-service {
+	BACKGROUND-IMAGE: url(../img/ico_crminfo.jpg); BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left center
+}
+UL.nm-teaser-links LI A.nm-teaser-service:hover {
+	BACKGROUND-IMAGE: url(../img/ico_crminfo2.jpg); BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left center; COLOR: #f98614
+}
+UL.nm-teaser-links LI A.nm-teaser-service:active {
+	BACKGROUND-POSITION: 0px -791px
+}
+UL.nm-teaser-nm-teaser-communication {
+	BACKGROUND-POSITION: 0px -724px
+}
+UL.nm-teaser-links LI A.nm-teaser-communication:hover {
+	BACKGROUND-IMAGE: url(../img/ico_einfo2.jpg); BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left center; COLOR: #f98614
+}
+UL.nm-teaser-links LI A.nm-teaser-communication {
+	BACKGROUND-IMAGE: url(../img/ico_einfo.jpg); BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left center
+}
+UL.nm-teaser-links LI.nm-teaser-communication {
+	BACKGROUND-IMAGE: url(../img/ico_einfo.jpg); BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left center
+}
+UL.nm-teaser-links LI A.nm-teaser-industry:hover {
+	BACKGROUND-IMAGE: url(../img/ico_hangyeinfo2.jpg); BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left center; COLOR: #f98614
+}
+UL.nm-teaser-links LI A.nm-teaser-industry:active {
+	BACKGROUND-POSITION: 0px -723px
+}
+UL.nm-teaser-links LI A.nm-teaser-industry {
+	BACKGROUND-IMAGE: url(../img/ico_hangyeinfo.jpg); BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left center
+}
+UL.nm-teaser-links LI.nm-teaser-industry {
+	BACKGROUND-IMAGE: url(../img/ico_hangyeinfo.jpg); BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left center
+}
+A.nm-news-image:hover {
+	BORDER-BOTTOM-COLOR: #15a9fa; BORDER-TOP-COLOR: #15a9fa; BORDER-RIGHT-COLOR: #15a9fa; BORDER-LEFT-COLOR: #15a9fa
+}
+UL.nm-teaser-links LI A.nm-teaser-enterprise:hover {
+	BACKGROUND-IMAGE: url(../img/ico_qingbaoinfo2.jpg); BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left center; COLOR: #f98614
+}
+UL.nm-teaser-links LI A.nm-teaser-enterprise:active {
+	BACKGROUND-POSITION: 0px -723px
+}
+UL.nm-teaser-links LI A.nm-teaser-enterprise {
+	BACKGROUND-IMAGE: url(../img/ico_qingbaoinfo.jpg); BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left center
+}
+UL.nm-teaser-links LI.nm-teaser-enterprise {
+	BACKGROUND-IMAGE: url(../img/ico_qingbaoinfo.jpg); BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left center
+}
+UL.nm-teaser-links LI A.nm-teaser-government:hover {
+	BACKGROUND-IMAGE: url(../img/ico_yuqinginfo2.jpg); BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left center; COLOR: #f98614
+}
+UL.nm-teaser-links LI A.nm-teaser-government:active {
+	BACKGROUND-POSITION: 0px -723px
+}
+UL.nm-teaser-links LI A.nm-teaser-government {
+	BACKGROUND-IMAGE: url(../img/ico_yuqinginfo.jpg); BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left center
+}
+UL.nm-teaser-links LI.nm-teaser-government {
+	BACKGROUND-IMAGE: url(../img/ico_yuqinginfo.jpg); BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left center
+}
+#nm-project-overview-list LI SPAN {
+	DISPLAY: none
+}
+.radwelt_pic SPAN {
+	DISPLAY: none
+}
+.blickhan_pic SPAN {
+	DISPLAY: none
+}
+.euratech_pic SPAN {
+	DISPLAY: none
+}

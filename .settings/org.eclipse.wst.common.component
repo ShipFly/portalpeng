@@ -2,6 +2,21 @@
     <wb-module deploy-name="portalpeng">
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
         <wb-resource deploy-path="/" source-path="/webapp"/>
+        <dependent-module archiveName="coo.struts.security-2.0.0.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/coo.struts.security/coo.struts.security">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="coo.struts-2.0.0.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/coo.struts/coo.struts">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="coo.core-2.0.0.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/coo.core/coo.core">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="coo.base-2.0.0.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/coo.base/coo.base">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="coo.core.security-2.0.0.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/coo.core.security/coo.core.security">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
         <property name="context-root" value="portalpeng"/>
         <property name="java-output-path" value="/portalpeng/target/classes"/>
     </wb-module>

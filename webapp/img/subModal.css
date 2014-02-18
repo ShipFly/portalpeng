@@ -1,0 +1,33 @@
+* {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#popupMask {
+	BACKGROUND-IMAGE: url(maskBG.png); Z-INDEX: 200; POSITION: absolute; FILTER: alpha(opacity=40); BACKGROUND-COLOR: transparent; WIDTH: 100%; DISPLAY: none; BACKGROUND-REPEAT: repeat; HEIGHT: 100%; TOP: 0px; LEFT: 0px; opacity: .4
+}
+#popupContainer {
+	Z-INDEX: 201; POSITION: absolute; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: none; PADDING-TOP: 0px; TOP: 0px; LEFT: 0px
+}
+#popupInner {
+	BORDER-BOTTOM: #efefef 0px solid; BORDER-LEFT: #efefef 0px solid; WIDTH: 486px; OVERFLOW: hidden; BORDER-TOP: #efefef 0px solid; BORDER-RIGHT: #efefef 0px solid
+}
+#iframe {
+	BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; WIDTH: 484px; BACKGROUND: url(../img/no_left_bg.gif) #f8f8f8 no-repeat left bottom; OVERFLOW: hidden; BORDER-TOP: #ccc 1px; BORDER-RIGHT: #ccc 1px solid; _width: 484px; _border: 1px solid #CCC
+}
+#iframe IFRAME {
+	WIDTH: 484px; OVERFLOW: hidden
+}
+#popupFrame {
+	Z-INDEX: 202; POSITION: relative; MARGIN: 0px; WIDTH: 100%; HEIGHT: 100%
+}
+#popupTitleBar {
+	BACKGROUND-IMAGE: url(../img/no_web_title.gif); Z-INDEX: 203; POSITION: relative; PADDING-BOTTOM: 5px; LINE-HEIGHT: 1.3em; PADDING-LEFT: 5px; WIDTH: 482px; PADDING-RIGHT: 5px; DISPLAY: block; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left top; HEIGHT: 40px; COLOR: #fff; FONT-WEIGHT: bold; PADDING-TOP: 5px
+}
+#popupTitle {
+	PADDING-LEFT: 60px; FLOAT: left; FONT-SIZE: 1.4em; PADDING-TOP: 10px
+}
+#popupControls {
+	PADDING-RIGHT: 20px; FLOAT: right; CURSOR: hand; PADDING-TOP: 10px
+}
+.no_web {
+	BACKGROUND-IMAGE: url(../img/no_web1.gif); BACKGROUND-COLOR: #f0f0f0; PADDING-LEFT: 20px; WIDTH: 456px; DISPLAY: block; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: 4px 20px; HEIGHT: 523px; FONT-SIZE: 12px; FONT-WEIGHT: lighter
+}

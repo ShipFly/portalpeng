@@ -1,0 +1,33 @@
+* {
+	margin: 0px; padding: 0px;
+}
+#popupMask {
+	left: 0px; top: 0px; width: 100%; height: 100%; display: none; filter: alpha(opacity=40); position: absolute; z-index: 200; opacity: 0.4; background-image: url("maskBG.png") !important; background-repeat: repeat; background-color: transparent !important;
+}
+#popupContainer {
+	padding: 0px; left: 0px; top: 0px; display: none; position: absolute; z-index: 201;
+}
+#popupInner {
+	border: 0px solid rgb(239, 239, 239); width: 486px; overflow: hidden;
+}
+#iframe {
+	background: url("/img/no_left_bg.gif") no-repeat left bottom rgb(248, 248, 248); border-width: medium 1px 1px; border-style: none solid solid; border-color: currentColor rgb(204, 204, 204) rgb(204, 204, 204); width: 484px; overflow: hidden; _width: 484px; _border: 1px solid #CCC;
+}
+#iframe iframe {
+	width: 484px; overflow: hidden;
+}
+#popupFrame {
+	margin: 0px; width: 100%; height: 100%; position: relative; z-index: 202;
+}
+#popupTitleBar {
+	padding: 5px; width: 482px; height: 40px; color: rgb(255, 255, 255); line-height: 1.3em; font-weight: bold; display: block; position: relative; z-index: 203; background-image: url("/img/no_web_title.gif"); background-repeat: no-repeat;
+}
+#popupTitle {
+	padding-top: 10px; padding-left: 60px; font-size: 1.4em; float: left;
+}
+#popupControls {
+	padding-top: 10px; padding-right: 20px; float: right; cursor: pointer;
+}
+.no_web {
+	background-position: 4px 20px; width: 456px; height: 523px; padding-left: 20px; font-size: 12px; font-weight: lighter; display: block; background-image: url("/img/no_web1.gif"); background-repeat: no-repeat; background-color: rgb(240, 240, 240);
+}

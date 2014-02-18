@@ -1,0 +1,228 @@
+.banaer {
+	margin: 0px auto; height: 145px; display: block; background-image: url("../img/banaer3_bg.jpg"); background-repeat: no-repeat;
+}
+.banaer_fla {
+	margin: 0px auto; width: 980px; height: 145px; display: block;
+}
+.bg_banae {
+	background-position: top; margin: 0px auto; height: 15px; display: block; background-image: url("../img/banaerb2.jpg"); background-repeat: no-repeat;
+}
+.main {
+	display: block;
+}
+.left_nave {
+	display: block;
+}
+.center_content {
+	display: block;
+}
+.right_side {
+	display: block;
+}
+.main {
+	margin: 0px auto; width: 980px; padding-top: 20px; display: block; _padding-top: 0px;
+}
+.position {
+	width: 960px; height: 32px; line-height: 32px; padding-left: 20px; margin-bottom: 10px; border-bottom-color: rgb(204, 204, 204); border-bottom-width: 1px; border-bottom-style: dotted; float: left;
+}
+.left_nave {
+	background: url("../img/left_nave_bg.gif") no-repeat left top; width: 181px; height: 286px; padding-top: 22px; margin-right: 20px; float: left; display: block; _margin-right: 10px;
+}
+.left_nave_title {
+	width: 181px; height: 36px; text-align: center; color: rgb(255, 255, 255); line-height: 36px; font-size: 14px; font-weight: bold; display: block;
+}
+#leftbar {
+	padding: 20px; float: left;
+}
+#leftbar ul {
+	margin: 0px; padding: 0px;
+}
+#othermenu {
+	list-style: none;
+}
+#othermenu li {
+	margin-bottom: 6px;
+}
+#othermenu li a {
+	width: 150px; height: 24px; text-align: left; color: rgb(255, 255, 255); line-height: 24px; text-indent: 20px; font-size: 12px; text-decoration: none; display: block;
+}
+#othermenu li a:hover {
+	color: rgb(102, 255, 204);
+}
+#othermenu li a.normal {
+	background: rgb(255, 255, 255);
+}
+#othermenu li a.over {
+	color: rgb(0, 116, 180);
+}
+#othermenu li a.cur {
+	width: 172px; height: 31px; color: rgb(255, 255, 255); line-height: 31px; display: block;
+}
+#nav li {
+	margin: 0px; padding: 0px; border: 0px solid rgb(0, 0, 0); line-height: 24px; clear: both; display: block; _height: 24px;
+}
+#nav ul li {
+	margin: 0px; padding: 0px; border: 0px solid rgb(0, 0, 0); line-height: 24px; clear: both; display: block; _height: 24px;
+}
+#nav ul {
+	margin: 0px; padding: 0px; border: 0px solid rgb(0, 0, 0); clear: both; display: block;
+}
+#nav ul li {
+	margin: 0px; padding: 0px; height: 24px; overflow: hidden; display: block;
+}
+#nav a {
+	color: rgb(255, 255, 255); padding-left: 12px; font-size: 14px; text-decoration: none; display: block;
+}
+#nav a:hover {
+	color: rgb(102, 255, 204);
+}
+#nav ul li a {
+	padding-left: 24px; display: block;
+}
+#nav ul li a.select {
+	color: rgb(102, 255, 204);
+}
+a.select {
+	color: rgb(102, 255, 204);
+}
+.center_content {
+	width: 573px; float: left; display: block;
+}
+.center_content p {
+	font-size: 12px;
+}
+.center_content h1 {
+	height: 42px; color: rgb(102, 102, 102); font-size: 18px; display: block;
+}
+.center_content h2 {
+	height: 36px; color: rgb(102, 102, 102); line-height: 56px; padding-bottom: 6px; font-size: 14px; display: block;
+}
+.center_content p {
+	text-align: justify; line-height: 24px; padding-right: 30px; display: block;
+}
+.center_content ul {
+	display: block;
+}
+.center_content ul li {
+	background-position: left 8px; width: 520px; padding-bottom: 6px; padding-left: 16px; background-image: url("../img/ico001.gif"); background-repeat: no-repeat;
+}
+.center_bottom h4 {
+	height: 46px; color: rgb(51, 51, 51); line-height: 46px; font-size: 14px; margin-bottom: 20px; border-bottom-color: rgb(209, 209, 209); border-bottom-width: 1px; border-bottom-style: dashed; display: block;
+}
+.center_content h2 {
+	color: rgb(102, 102, 102); font-size: 14px; font-weight: bold;
+}
+.center_content .xinxi_info {
+	width: 500px; height: auto; text-align: justify; padding-left: 70px; display: block; background-image: url("../img/qiyexinxi.jpg"); background-repeat: no-repeat;
+}
+.center_content .xinxi_info1 {
+	width: 500px; height: auto; text-align: justify; padding-left: 70px; display: block; background-image: url("../img/qiyexinxi.jpg"); background-repeat: no-repeat;
+}
+.center_content .xinxi_info2 {
+	width: 500px; height: auto; text-align: justify; padding-left: 70px; display: block; background-image: url("../img/qiyexinxi.jpg"); background-repeat: no-repeat;
+}
+.center_content .xinxi_info1 {
+	background-image: url("../img/zhengfufuwu.jpg");
+}
+.center_content .xinxi_info2 {
+	background-image: url("../img/dianzishangwu.jpg");
+}
+.center_content .yuqin_info1 {
+	width: 500px; height: auto; text-align: justify; padding-left: 70px; display: block; background-repeat: no-repeat;
+}
+.center_content .yuqin_info2 {
+	width: 500px; height: auto; text-align: justify; padding-left: 70px; display: block; background-repeat: no-repeat;
+}
+.center_content .yuqin_info3 {
+	width: 500px; height: auto; text-align: justify; padding-left: 70px; display: block; background-repeat: no-repeat;
+}
+.center_content .yuqin_info1 {
+	background-image: url("../img/hangye.jpg");
+}
+.center_content .yuqin_info2 {
+	background-image: url("../img/qiye.jpg");
+}
+.center_content .yuqin_info3 {
+	background-image: url("../img/zhengfu.jpg");
+}
+.postcontent {
+	width: 500px; padding-top: 30px; padding-right: 20px; border-right-color: rgb(204, 204, 204); border-right-width: 1px; border-right-style: solid; float: left; display: block;
+}
+.postcontent img {
+	float: left; display: block;
+}
+.postcontent h3 {
+	height: 24px; color: rgb(83, 83, 83); padding-left: 160px; display: block;
+}
+.postcontent p {
+	text-align: justify; line-height: 18px; padding-top: 15px; padding-bottom: 15px; padding-left: 160px; display: block;
+}
+.center_bottom {
+	margin: 0px auto; width: 780px; padding-bottom: 40px; padding-left: 200px;
+}
+.center_bottom .team {
+	width: 230px; padding-left: 20px; float: left; display: block;
+}
+.center_bottom .team h3 {
+	height: 18px; color: rgb(83, 83, 83); display: block;
+}
+.center_bottom .team p {
+	text-align: justify; line-height: 18px; padding-top: 10px; padding-bottom: 10px; display: block;
+}
+.right_side {
+	width: 205px; float: left; display: block;
+}
+.right_side .position {
+	height: 36px; line-height: 24px; display: block;
+}
+.right_side h3 {
+	background-position: left bottom; width: 205px; height: 36px; color: rgb(51, 51, 51); line-height: 36px; display: block; background-image: url("../img/side_bg.jpg"); background-repeat: no-repeat;
+}
+.right_side .service_box {
+	width: 180px; padding-bottom: 10px; display: block;
+}
+.right_side .side_pic img {
+	padding: 2px; border: 1px solid rgb(183, 183, 183); background-color: rgb(255, 255, 255);
+}
+.right_side p {
+	line-height: 18px;
+}
+.right_side p span {
+	line-height: 24px; font-size: 13px;
+}
+.right_side p a {
+	background-position: left; height: 22px; color: rgb(143, 143, 143); line-height: 22px; padding-left: 15px; display: block; background-image: url("../img/ico_ddd.jpg"); background-repeat: no-repeat;
+}
+.right_side p a.blue {
+	color: rgb(0, 102, 255);
+}
+.form_table td {
+	padding-top: 8px; padding-bottom: 8px;
+}
+.gu_button {
+	background: url("/img/butt_out.png") no-repeat left top; border: currentColor; width: 139px; height: 37px; color: rgb(255, 255, 255); line-height: 28px; font-family: "Î¢ÈíÑÅºÚ"; margin-right: 15px;
+}
+.gu_button:hover {
+	background: url("/img/butt_over.png") no-repeat left top; border: currentColor; width: 139px; height: 37px; color: rgb(255, 255, 255); line-height: 28px; font-family: "Î¢ÈíÑÅºÚ";
+}
+.gu_input_1 {
+	background: url("/img/input_bg1.png") no-repeat left;
+}
+.gu_input_1 input {
+	border: 0px currentColor; width: 120px; height: 24px; color: rgb(102, 102, 102); line-height: 24px; margin-left: 10px;
+}
+.gu_input_2 {
+	
+}
+.gu_input_2 select {
+	border: 1px solid rgb(238, 238, 238); height: 24px; color: rgb(102, 102, 102); margin-right: 10px;
+}
+.gu_textarea_1 {
+	background: url("/img/textarea_bg1.png") no-repeat left; height: 85px;
+}
+.gu_textarea_1 span {
+	padding: 10px; width: 288px; display: block;
+}
+.gu_textarea_1 textarea {
+	border: currentColor; width: 270px; height: 75px; color: rgb(102, 102, 102);
+}

@@ -1,0 +1,67 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<!-- saved from url=(0049)http://www.anxunsoft.com/formguide/index.php -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><HTML 
+xmlns="http://www.w3.org/1999/xhtml"><HEAD>
+<META content="text/html; charset=utf-8" http-equiv="Content-Type">
+<TITLE>在线咨询</TITLE>
+<META name="keywords" content="">
+<META name="description" content=""><LINK rel="shortcut icon" 
+href="favicon.ico"><LINK rel="stylesheet" type="text/css" href="sendtry_files/header.css">
+<LINK rel="stylesheet" type="text/css" href="sendtry_files/about2.css" media="screen">
+<LINK rel="stylesheet" type="text/css" href="sendtry_files/subModal.css">
+<SCRIPT type="text/javascript" src="sendtry_files/modal.js"></SCRIPT>
+
+<SCRIPT type="text/javascript" src="sendtry_files/nm.js"></SCRIPT>
+
+<STYLE type="text/css">
+<!--
+th { text-align:right; padding:0 10px; font-weight:lighter; }
+-->
+</STYLE>
+
+<META name="GENERATOR" content="MSHTML 9.00.8112.16514"></HEAD>
+<BODY>
+<FORM encType="multipart/form-data" method="post" name="myform" action="formguide/index.php">
+<TABLE class="form_table" border="0" cellSpacing="1" cellPadding="0">
+  <TBODY>
+  <TR>
+    <TH>姓　　名：</TH>
+    <TD class="gu_input_1"><INPUT id="username" name="info[username]" type="text"> 
+    </TD></TR>
+  <TR>
+    <TH>性　　别：</TH>
+    <TD><LABEL><INPUT style="border: 0px currentColor;" id="sex" name="info[sex]" 
+      value="女士" type="radio"> 先生</LABEL><LABEL><INPUT style="border: 0px currentColor;" 
+      id="sex" name="info[sex]" value="先生" type="radio"> 女士</LABEL></TD></TR>
+  <TR>
+    <TH>单位名称：</TH>
+    <TD class="gu_input_1"><INPUT id="company" name="info[company]" type="text"> 
+    </TD></TR>
+  <TR>
+    <TH>办公电话：</TH>
+    <TD class="gu_input_1"><INPUT id="tell" name="info[tell]" type="text" msg="字符长度必须为0到255位" 
+      max="255" min="0" datatype="limit" require="false"> </TD></TR>
+  <TR>
+    <TH>手　　机：</TH>
+    <TD class="gu_input_1"><INPUT id="cellphone" name="info[cellphone]" type="text"> 
+    </TD></TR>
+  <TR>
+    <TH>您的联系地址：</TH>
+    <TD class="gu_input_1"><INPUT id="city" name="info[city]" type="text" msg="字符长度必须为1到255位" 
+      max="255" min="1" datatype="limit" require="true"></TD></TR>
+  <TR>
+    <TH>咨询内容：</TH>
+    <TD class="gu_textarea_1"><SPAN><TEXTAREA id="content" name="info[content]"></TEXTAREA></SPAN></TD></TR>
+  <TR>
+    <TH></TH>
+    <TD style="padding-top: 12px;"><INPUT name="dataid" type="hidden"><INPUT 
+      name="formid" value="1" type="hidden"><INPUT class="gu_button" name="dosubmit" value="提交表单&nbsp;&nbsp;&nbsp;&nbsp;" type="submit"><INPUT style="display: none;" class="gu_button" name="reset" value="取消提交&nbsp;&nbsp;&nbsp;&nbsp;" type="reset"></TD></TR>
+  </TBODY></TABLE></FORM>
+<SCRIPT language="javascript">
+<!--
+$().ready(function() {
+  $('form').checkForm(1);
+});
+//-->
+</SCRIPT>
+</BODY></HTML>
